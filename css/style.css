@@ -1204,8 +1204,8 @@ img.image-badge {
         right: 20px;
     }
     .product-section .product-section-header img.image-badge{
-        top: -45px;
-        right: -45px;
+        top: -55px;
+        right: 10px;
     }
     .product-section h3 {
         font-size: 22px;
@@ -1408,7 +1408,9 @@ img.image-badge {
         font-size: 38px;
         width: auto;
     }
-
+    .last-cta-banner div {
+        width: 45%;
+    }
     .cta-banner-best-seller h2 {
         font-size: 50px;
         width: 50%;
@@ -1518,11 +1520,8 @@ img.image-badge {
     .offer .bundle-content {
         padding: 0px 25px;
     }
-    .last-cta-banner div {
-        width: 35%;
-    }
     .last-cta-banner div.last-cta-wrapper{
-        width: 100%;
+        width: 90%;
         align-items: center;
         text-align: center;
         justify-content: space-around;
@@ -1688,6 +1687,10 @@ img.image-badge {
 
     .cta-banner-effect h2 {
         font-size: 50px;
+    }
+    
+    .last-cta-banner div {
+        width: 35%;
     }
     .how-to-prepare .steps p {
         font-size: 20px;
